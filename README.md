@@ -8,6 +8,7 @@
 
 * 👩‍🎓 Studying at the University of Virginia, graduated from Duquense University
 * ⚕️ Collaborating on anesthesiology capstone project in cooperation with UVA Health
+* 🚣‍♀️ Improving my technical skills through my personal project `ncaa_rowing`
 * 🌱 Working to make an impact using data science for good
 
 ### Please reach out via 
