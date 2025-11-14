@@ -4,7 +4,7 @@
 
 ## 👩‍💻Hi! My name is Hannah and I am an aspiring Data Scientist from Pittsburgh, PA
 
-### Right now I'm:
+### A little about me:
 
 * 👩‍🎓 Data Science graduate from the University of Virginia, and graduated from Duquense University in Physics!
 * ⚕️ Collaborated on anesthesiology capstone project in cooperation with UVA Health
