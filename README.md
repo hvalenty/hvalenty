@@ -6,8 +6,8 @@
 
 ### Right now I'm:
 
-* 👩‍🎓 Studying at the University of Virginia, graduated from Duquense University
-* ⚕️ Collaborating on anesthesiology capstone project in cooperation with UVA Health
+* 👩‍🎓 Data Science graduate from the University of Virginia, and graduated from Duquense University in Physics!
+* ⚕️ Collaborated on anesthesiology capstone project in cooperation with UVA Health
 * 🚣‍♀️ Improving my technical skills through my personal project `ncaa_rowing`
 * 🌱 Working to make an impact using data science for good
 
